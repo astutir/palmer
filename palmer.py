@@ -1,7 +1,7 @@
 import streamlit as st
 
 home = st.Page(
-    page="Home\Dataset_Overview.py",
+    page="Projects\Dataset_Overview.py",
     title="Home",
     icon=":material/dashboard:", default=True)
 data = st.Page(
